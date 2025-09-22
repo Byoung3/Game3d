@@ -20,9 +20,13 @@ I added multiple:
 I added 3 levels but the last one was deleted when my computer crashed. The empty scene is still there though.
 
 Assets used:
+
 https://assetstore.unity.com/packages/3d/environments/sci-fi/real-stars-skybox-lite-116333
+
 https://pixabay.com/music/video-games-arcade-beat-323176/
+
 https://erick1310.itch.io/gun-pack
+
 https://piiixl.itch.io/1-bit-patterns-and-tiles
 
 
