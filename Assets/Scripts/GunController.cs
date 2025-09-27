@@ -8,12 +8,12 @@ public class GunController : MonoBehaviour
 
     private float nextFireTime;
 
-    void Update()
+    void FixedUpdate()
     {
         if (Input.GetButtonDown("Fire1") && Time.time >= nextFireTime)
         {
             Shoot();
-            nextFireTime = Time.time + fireRate;
+            nextFireTime = Time.deltaTime + fireRate;
         }
     }
 
